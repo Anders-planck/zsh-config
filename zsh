@@ -1,1 +1,0 @@
-/Users/anders/dotzsh/.zsh
